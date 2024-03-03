@@ -1,2 +1,2 @@
-# Coding-Raja-Technologies-Internship
-Here's my Coding Raja Technologies Internship task 2 i.e Music Player
+# MUSIC PLAYER APP
+Here's my MUSIC PLAYER APP task 2 i.e Music Player
